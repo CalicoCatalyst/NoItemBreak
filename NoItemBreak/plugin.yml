@@ -1,0 +1,5 @@
+name: NoItemBreak
+main: net.insxnity.noitembreak.NoItemBreak
+load: STARTUP
+version: 1.0.0
+author: Insxnity

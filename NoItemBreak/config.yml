@@ -1,0 +1,16 @@
+############################################################
+# +------------------------------------------------------+ #
+# |              NoItemBreak Configuration               | #    Author: Insxnity
+# +------------------------------------------------------+ #
+############################################################
+
+# Should we enable the plugin?
+enable: true
+
+# What permission should keep a player's items from breaking
+permission: 'noitembreak.nobreak'
+
+# Modifying will break the configuration
+version: 1.0
+
+##End of Configuration
